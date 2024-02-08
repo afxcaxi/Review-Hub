@@ -3,7 +3,7 @@ wait(.1)
 repeat task.wait() until game:IsLoaded()
 local TablePlace = {7449423635,2753915549,4442272183}
 if table.find(TablePlace,game.PlaceId) then  
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/OldBanana.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Memories0912/Blox-Fruits/main/Chest-Memories.lua"))()
     else
     game.Players.LocalPlayer:Kick("Not Support This Executor Or Not Support This Game")
 end
