@@ -61,4 +61,4 @@ _G["Farm Sea Events When AllDone"] = {
     GetSharkAnchor = true,
 }
 _G.BypassTeleport = false -- set it true if u wanna fast tp (idk if bug or not)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/afxcaxi/Review-Hub/main/Hoho%20Kaitun"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HohoV2/main/ScriptLoad.lua"))()
