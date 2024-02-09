@@ -8,7 +8,7 @@ _G["Fumo Blox Fruit - HoHo Hub Kaitun V3"] = {
     GetFruitInWorld = true, -- true/false collect fruit
     AutoTeam = "Marine", -- Pirate/Marine
     GetMelees = {"Superhuman", "Death Step","Sharkman Karate","Electric Claw","Dargon Talon", "Godhuman"}, -- remove if u dont wanna get what melee
-    Redeem_X2EXP_on = 10, -- to redeem all x2 exp code on what level
+    Redeem_X2EXP_on = 1, -- to redeem all x2 exp code on what level
     Character_Config = {
         InvisFromKen = true, -- true/false anyone use ken cant see your name
         NoStun = true, -- true/false make u dont get stuned when farming
@@ -61,4 +61,4 @@ _G["Farm Sea Events When AllDone"] = {
     GetSharkAnchor = true,
 }
 _G.BypassTeleport = false -- set it true if u wanna fast tp (idk if bug or not)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HohoV2/main/ScriptLoad.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/afxcaxi/Review-Hub/main/Hoho%20Kaitun"))()
